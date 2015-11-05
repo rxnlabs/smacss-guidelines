@@ -228,6 +228,8 @@ a.cta{
 }
 ```
 #### State
+#### _state.scss
+```scss
 .is-collapsed{
     .content{
         display: none;
@@ -239,6 +241,7 @@ a.cta{
         display: block;
     }
 }
+```
 #### Theme
 ##### _tikets.scss
 ```scss
@@ -346,4 +349,4 @@ body.page-template-page-ticket{
         }
     }
 }
-````
+```
